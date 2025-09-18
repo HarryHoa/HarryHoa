@@ -26,7 +26,6 @@ Welcome to my corner of GitHub! 🚀
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarryHoa&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarryHoa&layout=compact&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HarryHoa&theme=radical)
 
